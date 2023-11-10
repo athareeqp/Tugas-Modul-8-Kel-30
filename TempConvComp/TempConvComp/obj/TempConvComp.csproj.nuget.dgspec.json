@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aulya\\Documents\\UNDIP\\Kuliah\\SEMESTER 7\\Praktikum Rekayasa Perangkat Lunak Berbasis Komponen\\Modul 8 dan 9\\TempConvComp\\TempConvComp\\TempConvComp.csproj": {}
+    "C:\\Users\\aulya\\Documents\\UNDIP\\Kuliah\\SEMESTER 7\\Praktikum Rekayasa Perangkat Lunak Berbasis Komponen\\Modul 8 dan 9\\Tugas Modul 8 Kel 30\\TempConvComp\\TempConvComp\\TempConvComp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aulya\\Documents\\UNDIP\\Kuliah\\SEMESTER 7\\Praktikum Rekayasa Perangkat Lunak Berbasis Komponen\\Modul 8 dan 9\\TempConvComp\\TempConvComp\\TempConvComp.csproj": {
+    "C:\\Users\\aulya\\Documents\\UNDIP\\Kuliah\\SEMESTER 7\\Praktikum Rekayasa Perangkat Lunak Berbasis Komponen\\Modul 8 dan 9\\Tugas Modul 8 Kel 30\\TempConvComp\\TempConvComp\\TempConvComp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aulya\\Documents\\UNDIP\\Kuliah\\SEMESTER 7\\Praktikum Rekayasa Perangkat Lunak Berbasis Komponen\\Modul 8 dan 9\\TempConvComp\\TempConvComp\\TempConvComp.csproj",
+        "projectUniqueName": "C:\\Users\\aulya\\Documents\\UNDIP\\Kuliah\\SEMESTER 7\\Praktikum Rekayasa Perangkat Lunak Berbasis Komponen\\Modul 8 dan 9\\Tugas Modul 8 Kel 30\\TempConvComp\\TempConvComp\\TempConvComp.csproj",
         "projectName": "TempConvComp",
-        "projectPath": "C:\\Users\\aulya\\Documents\\UNDIP\\Kuliah\\SEMESTER 7\\Praktikum Rekayasa Perangkat Lunak Berbasis Komponen\\Modul 8 dan 9\\TempConvComp\\TempConvComp\\TempConvComp.csproj",
+        "projectPath": "C:\\Users\\aulya\\Documents\\UNDIP\\Kuliah\\SEMESTER 7\\Praktikum Rekayasa Perangkat Lunak Berbasis Komponen\\Modul 8 dan 9\\Tugas Modul 8 Kel 30\\TempConvComp\\TempConvComp\\TempConvComp.csproj",
         "packagesPath": "C:\\Users\\aulya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aulya\\Documents\\UNDIP\\Kuliah\\SEMESTER 7\\Praktikum Rekayasa Perangkat Lunak Berbasis Komponen\\Modul 8 dan 9\\TempConvComp\\TempConvComp\\obj\\",
+        "outputPath": "C:\\Users\\aulya\\Documents\\UNDIP\\Kuliah\\SEMESTER 7\\Praktikum Rekayasa Perangkat Lunak Berbasis Komponen\\Modul 8 dan 9\\Tugas Modul 8 Kel 30\\TempConvComp\\TempConvComp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aulya\\AppData\\Roaming\\NuGet\\NuGet.Config",

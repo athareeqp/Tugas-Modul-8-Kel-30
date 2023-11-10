@@ -21,32 +21,32 @@ namespace TempConvComp
 
         public double rToC(double r)
         {
-            return (double)((r - 1.25) * 0.8);
+            return (double)(r * 1.25);
         }
 
         public double rToF(double r)
         {
-            return (double)((r - 1.25) * 0.44);
+            return (double)(r * 2.25 + 32);
         }
 
         public double rToK(double r)
         {
-            return (double)(r * 0.56);
+            return (double)(r * 1.25 + 273.15);
         }
 
         public double fToC(double f)
         {
-            return (double)((f - 32) * 0.56);            
+            return (double)((f - 32) * 0.55555555555555555555555555555556);            
         }
 
         public double fToR(double f)
         {
-            return (double)((f - 32) * 0.44);            
+            return (double)((f - 32) * 0.44444444444444444444444444444444);            
         }
 
         public double fToK(double f)
         {
-            return (double)((f + 459.67) * 0.56);
+            return (double)((f + 459.67) * 0.55555555555555555555555555555556);
 
         }
 
